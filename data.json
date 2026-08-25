@@ -2,23 +2,6 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
-      "id": "25cbaaf0-2194-4568-a10e-f2d60bfeface",
-      "name": "Rosa Alvarado",
-      "phone": "0993334455",
-      "brand": "AKT",
-      "model": "NKD 125",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-08-25T16:00",
-      "payment": "Crédito directo +3 meses >60% entrada",
-      "source": "Referido",
-      "amount": 1980,
-      "vendor": "Carla Yépez",
-      "notes": "La refirió Luis Grefa, su cuñado. Quiere pasar hoy mismo a verla.",
-      "createdAt": "2026-08-25T12:00:00Z",
-      "updatedAt": "2026-08-25T12:00:00Z"
-    },
-    {
       "id": "36034af5-62ec-4d48-b29a-2905511897e5",
       "name": "Wilson Chimbo",
       "phone": "0996667788",
