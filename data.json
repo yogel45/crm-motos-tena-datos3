@@ -2,23 +2,6 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
-      "id": "9d267e37-be8f-453f-b3a8-f65997866495",
-      "name": "Luis Grefa",
-      "phone": "0995551234",
-      "brand": "Suzuki",
-      "model": "GN 125",
-      "interest": "Muy interesado",
-      "status": "Vendido",
-      "followUp": "",
-      "payment": "Contado",
-      "source": "Presencial",
-      "amount": 2450,
-      "vendor": "Jorge Alvarado",
-      "notes": "Pago contado, entregado el 20 de agosto.",
-      "createdAt": "2026-08-13T12:00:00Z",
-      "updatedAt": "2026-08-13T12:00:00Z"
-    },
-    {
       "id": "67b9a111-b51e-401a-b5a5-a941766e8786",
       "name": "Ana Cerda",
       "phone": "",
