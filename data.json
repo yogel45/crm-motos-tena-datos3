@@ -2,23 +2,6 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
-      "id": "36034af5-62ec-4d48-b29a-2905511897e5",
-      "name": "Wilson Chimbo",
-      "phone": "0996667788",
-      "brand": "Shineray",
-      "model": "XY 200",
-      "interest": "Interesado",
-      "status": "Seguimiento",
-      "followUp": "2026-08-30T11:00",
-      "payment": "Crédito directo 2 meses",
-      "source": "TikTok",
-      "amount": 2750,
-      "vendor": "Jorge Alvarado",
-      "notes": "",
-      "createdAt": "2026-08-18T12:00:00Z",
-      "updatedAt": "2026-08-18T12:00:00Z"
-    },
-    {
       "id": "24a5666b-c154-45b7-98da-76053c84f108",
       "name": "Diana Vargas",
       "phone": "0994443322",
