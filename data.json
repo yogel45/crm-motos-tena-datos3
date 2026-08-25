@@ -2,23 +2,6 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
-      "id": "21838e29-e58d-4469-8fd2-e96c2f791744",
-      "name": "Segundo Tanguila",
-      "phone": "0998887766",
-      "brand": "TVS",
-      "model": "Raider 125",
-      "interest": "Interesado",
-      "status": "Contactado",
-      "followUp": "2026-08-28T09:00",
-      "payment": "Crédito Finsok",
-      "source": "Marketplace",
-      "amount": 2300,
-      "vendor": "Jorge Alvarado",
-      "notes": "Preguntó por planes de crédito. Trabaja en el municipio.",
-      "createdAt": "2026-08-24T12:00:00Z",
-      "updatedAt": "2026-08-24T12:00:00Z"
-    },
-    {
       "id": "25cbaaf0-2194-4568-a10e-f2d60bfeface",
       "name": "Rosa Alvarado",
       "phone": "0993334455",
