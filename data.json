@@ -1,3 +1,22 @@
 {
-  "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2"
+  "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
+  "clients": [
+    {
+      "id": "8d8cb620-5e71-479e-a885-a29db6cc6844",
+      "name": "Joel Ortiz",
+      "phone": "0986143046",
+      "brand": "Yamaha",
+      "model": "xr12",
+      "interest": "Muy interesado",
+      "status": "Contactado",
+      "followUp": "2026-08-21T06:17",
+      "payment": "Crédito directo 2 meses",
+      "source": "WhatsApp",
+      "amount": 3222,
+      "vendor": "yogel",
+      "notes": "dscsdcsd",
+      "createdAt": "2026-08-25T07:13:28.557Z",
+      "updatedAt": "2026-08-25T07:13:28.557Z"
+    }
+  ]
 }
