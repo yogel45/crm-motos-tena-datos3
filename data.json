@@ -1,4 +1,22 @@
 {
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
-  "clients": []
+  "clients": [
+    {
+      "id": "7d6089dc-3705-4922-af67-2fa58e4378d7",
+      "name": "6456546",
+      "phone": "54654654",
+      "brand": "456",
+      "model": "54654",
+      "interest": "Interesado",
+      "status": "Seguimiento",
+      "followUp": "",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 65,
+      "vendor": "yogel65",
+      "notes": "56565465",
+      "createdAt": "2026-08-25T07:30:38.916Z",
+      "updatedAt": "2026-08-25T07:30:38.916Z"
+    }
+  ]
 }
