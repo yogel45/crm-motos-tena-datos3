@@ -19,23 +19,6 @@
       "updatedAt": "2026-08-26T02:35:41.884Z"
     },
     {
-      "id": "25cbaaf0-2194-4568-a10e-f2d60bfeface",
-      "name": "Rosa Alvarado",
-      "phone": "0993334455",
-      "brand": "AKT",
-      "model": "NKD 125",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-08-25T16:00",
-      "payment": "Crédito directo +3 meses >60% entrada",
-      "source": "Referido",
-      "amount": 1980,
-      "vendor": "Carla Yépez",
-      "notes": "La refirió Luis Grefa, su cuñado. Quiere pasar hoy mismo a verla.",
-      "createdAt": "2026-08-25T12:00:00Z",
-      "updatedAt": "2026-08-25T12:00:00Z"
-    },
-    {
       "id": "24a5666b-c154-45b7-98da-76053c84f108",
       "name": "Diana Vargas",
       "phone": "0994443322",
