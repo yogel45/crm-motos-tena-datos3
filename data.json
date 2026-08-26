@@ -36,23 +36,6 @@
       "updatedAt": "2026-08-20T12:00:00Z"
     },
     {
-      "id": "d00cf42a-4092-4209-b370-478c8af12698",
-      "name": "Maria Shiguango",
-      "phone": "0987654321",
-      "brand": "Bajaj",
-      "model": "Boxer 150",
-      "interest": "Interesado",
-      "status": "Seguimiento",
-      "followUp": "2026-08-26T10:30",
-      "payment": "Crédito cooperativa",
-      "source": "Facebook",
-      "amount": 2100,
-      "vendor": "Carla Yépez",
-      "notes": "Está esperando que le aprueben el crédito en la cooperativa.",
-      "createdAt": "2026-08-22T12:00:00Z",
-      "updatedAt": "2026-08-22T12:00:00Z"
-    },
-    {
       "id": "9d267e37-be8f-453f-b3a8-f65997866495",
       "name": "Luis Grefa",
       "phone": "0995551234",
