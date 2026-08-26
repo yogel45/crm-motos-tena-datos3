@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "d03b2d01-7210-4438-ba1c-d345771f7e33",
+      "name": "David Zaldumbide",
+      "phone": "0984116413",
+      "brand": "Tuko",
+      "model": "Sker 3000",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-08-27T10:32",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": null,
+      "vendor": "David Zaldumbide",
+      "notes": "",
+      "createdAt": "2026-08-26T02:35:41.884Z",
+      "updatedAt": "2026-08-26T02:35:41.884Z"
+    },
+    {
       "id": "a3fe6385-f876-4976-a350-1456194fee34",
       "name": "Pedro Andi",
       "phone": "0991234567",
