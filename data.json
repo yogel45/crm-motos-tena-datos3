@@ -19,23 +19,6 @@
       "updatedAt": "2026-08-26T02:35:41.884Z"
     },
     {
-      "id": "67b9a111-b51e-401a-b5a5-a941766e8786",
-      "name": "Ana Cerda",
-      "phone": "",
-      "brand": "Yamaha",
-      "model": "FZ 2.0",
-      "interest": "No interesado",
-      "status": "Perdido",
-      "followUp": "",
-      "payment": "Por definir",
-      "source": "Instagram",
-      "amount": null,
-      "vendor": "",
-      "notes": "Se decidió por otra marca.",
-      "createdAt": "2026-08-05T12:00:00Z",
-      "updatedAt": "2026-08-05T12:00:00Z"
-    },
-    {
       "id": "25cbaaf0-2194-4568-a10e-f2d60bfeface",
       "name": "Rosa Alvarado",
       "phone": "0993334455",
