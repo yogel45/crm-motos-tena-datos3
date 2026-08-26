@@ -1,4 +1,22 @@
 {
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
-  "clients": []
+  "clients": [
+    {
+      "id": "a51f8976-cfec-4e41-8cfc-2ba56aa398af",
+      "name": "Veloz Clinte interesado Haojue 150 Delivery",
+      "phone": "+593 96 088 9175",
+      "brand": "Haojue",
+      "model": "HJ150",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-08-28T13:13",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 1990,
+      "vendor": "David Zaldumbide",
+      "notes": "Cliente quiere vender su moto para realizar compra",
+      "createdAt": "2026-08-26T03:16:25.362Z",
+      "updatedAt": "2026-08-26T03:16:25.362Z"
+    }
+  ]
 }
