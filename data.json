@@ -17,23 +17,6 @@
       "notes": "",
       "createdAt": "2026-08-26T02:35:41.884Z",
       "updatedAt": "2026-08-26T02:35:41.884Z"
-    },
-    {
-      "id": "24a5666b-c154-45b7-98da-76053c84f108",
-      "name": "Diana Vargas",
-      "phone": "0994443322",
-      "brand": "KTM",
-      "model": "Duke 200",
-      "interest": "Muy interesado",
-      "status": "Vendido",
-      "followUp": "",
-      "payment": "Contado",
-      "source": "Presencial",
-      "amount": 4300,
-      "vendor": "Carla Yépez",
-      "notes": "Cliente frecuente, ya había comprado una moto hace dos años. Pago de contado completo.",
-      "createdAt": "2026-08-10T12:00:00Z",
-      "updatedAt": "2026-08-10T12:00:00Z"
     }
   ]
 }
