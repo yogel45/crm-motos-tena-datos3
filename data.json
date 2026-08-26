@@ -19,23 +19,6 @@
       "updatedAt": "2026-08-26T02:35:41.884Z"
     },
     {
-      "id": "a3fe6385-f876-4976-a350-1456194fee34",
-      "name": "Pedro Andi",
-      "phone": "0991234567",
-      "brand": "Honda",
-      "model": "XR 190",
-      "interest": "Muy interesado",
-      "status": "Negociación",
-      "followUp": "2026-08-27T15:00",
-      "payment": "Crédito directo 2 meses",
-      "source": "WhatsApp",
-      "amount": 3200,
-      "vendor": "Carla Yépez",
-      "notes": "Quiere entregar la moto vieja como parte de pago. Ya vio la unidad dos veces.",
-      "createdAt": "2026-08-20T12:00:00Z",
-      "updatedAt": "2026-08-20T12:00:00Z"
-    },
-    {
       "id": "9d267e37-be8f-453f-b3a8-f65997866495",
       "name": "Luis Grefa",
       "phone": "0995551234",
