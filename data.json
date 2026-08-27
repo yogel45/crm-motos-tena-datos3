@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "db6c1838-af11-43dd-bdc5-40275bddc30d",
+      "name": "Jair cliente interesado Moto tuko",
+      "phone": "+593 99 065 4727",
+      "brand": "Tuko",
+      "model": "Sikr 300",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-08-27T11:51",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 2760,
+      "vendor": "David Zaldumbide",
+      "notes": "",
+      "createdAt": "2026-08-27T16:52:35.497Z",
+      "updatedAt": "2026-08-27T16:52:35.497Z"
+    },
+    {
       "id": "3a5a31a0-7d7c-474f-af04-d3c712b7a632",
       "name": "Cliente interesado igm cr work market place",
       "phone": "+593 98 795 0120",
