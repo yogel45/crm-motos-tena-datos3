@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "3a5a31a0-7d7c-474f-af04-d3c712b7a632",
+      "name": "Cliente interesado igm cr work market place",
+      "phone": "+593 98 795 0120",
+      "brand": "Igm",
+      "model": "Cr work",
+      "interest": "Interesado",
+      "status": "Nuevo",
+      "followUp": "2026-08-27T11:48",
+      "payment": "Contado",
+      "source": "Marketplace",
+      "amount": 1.1,
+      "vendor": "David Zaldumbide",
+      "notes": "",
+      "createdAt": "2026-08-27T16:49:21.448Z",
+      "updatedAt": "2026-08-27T16:49:21.448Z"
+    },
+    {
       "id": "2ea958f3-b74c-42c2-bea2-c14348ed9a89",
       "name": "Ruben Vecino Vision led",
       "phone": "+593 96 237 5622",
