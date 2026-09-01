@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "32bd656d-e4fe-425d-9ea3-81c05f18bedd",
+      "name": "Cliente interesado Pulsar n125 1,500$ tiene",
+      "phone": "+593 99 972 7584",
+      "brand": "Pulsar",
+      "model": "N125",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-09-01T09:46",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 2600,
+      "vendor": "David Zaldumbide",
+      "notes": "",
+      "createdAt": "2026-09-01T14:46:40.792Z",
+      "updatedAt": "2026-09-01T14:46:40.792Z"
+    },
+    {
       "id": "2e77af30-4cbe-4988-b098-41107cd5366c",
       "name": "Profe Segura",
       "phone": "+593 98 360 6378",
