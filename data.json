@@ -70,23 +70,6 @@
       "updatedAt": "2026-08-27T16:49:21.448Z"
     },
     {
-      "id": "afc21c6d-4b52-4625-b9ea-b65b91c3f84e",
-      "name": "Orlando Amigo de Beiron",
-      "phone": "+593 98 229 6492",
-      "brand": "Daytona",
-      "model": "Everest o Expedition",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-08-25T22:20",
-      "payment": "Contado",
-      "source": "WhatsApp",
-      "amount": 2.75,
-      "vendor": "David Zaldumbide",
-      "notes": "A espera de crédito para realizar la Compra",
-      "createdAt": "2026-08-26T03:21:34.073Z",
-      "updatedAt": "2026-08-26T03:21:34.073Z"
-    },
-    {
       "id": "a51f8976-cfec-4e41-8cfc-2ba56aa398af",
       "name": "Veloz Clinte interesado Haojue 150 Delivery",
       "phone": "+593 96 088 9175",
