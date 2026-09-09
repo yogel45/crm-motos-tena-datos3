@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "9dfb4498-7188-41d0-8d66-cde0b17be120",
+      "name": "Andres interesado Rally 250 delivery",
+      "phone": "0984880322",
+      "brand": "Loncin",
+      "model": "Rally 250",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-09-09T14:00",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 2525,
+      "vendor": "David Zaldumbide",
+      "notes": "",
+      "createdAt": "2026-09-09T19:00:50.640Z",
+      "updatedAt": "2026-09-09T19:00:50.640Z"
+    },
+    {
       "id": "f2572f64-a936-48a3-a3fa-ed981d1d875a",
       "name": "Geovanny Tapuy Rally 300",
       "phone": "+593 98 903 0812",
