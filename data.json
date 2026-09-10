@@ -19,23 +19,6 @@
       "updatedAt": "2026-09-10T21:33:46.892Z"
     },
     {
-      "id": "febefe74-bf33-4a0c-aecd-e8f39e2b0eaf",
-      "name": "Cliente interesado discobery",
-      "phone": "0983674346",
-      "brand": "Bajaj",
-      "model": "Ct125",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-09-10T14:30",
-      "payment": "Contado",
-      "source": "WhatsApp",
-      "amount": 2500,
-      "vendor": "David Zaldumbide",
-      "notes": "",
-      "createdAt": "2026-09-10T19:30:37.707Z",
-      "updatedAt": "2026-09-10T19:30:37.707Z"
-    },
-    {
       "id": "623d66f7-9bbc-43cc-9e2b-9daef43a7e18",
       "name": "Luis cliente interesado ct125 dircobery",
       "phone": "0983674346",
