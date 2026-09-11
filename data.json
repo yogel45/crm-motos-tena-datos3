@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "868ff359-b530-41e0-9e62-ebd4bc22df58",
+      "name": "Luis Sarabia",
+      "phone": "0982841468",
+      "brand": "Tuko",
+      "model": "Sikr 300",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-09-11T11:25",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 2680,
+      "vendor": "David Zaldumbide",
+      "notes": "",
+      "createdAt": "2026-09-11T16:26:08.324Z",
+      "updatedAt": "2026-09-11T16:26:08.324Z"
+    },
+    {
       "id": "6aa441b9-97e8-4880-9f82-17b5308d1bce",
       "name": "Cristian interesado moto neiket 200",
       "phone": "0983775015",
