@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "88109a27-2ba3-48e6-95a3-f9585d4cb352",
+      "name": "Emilson Andi interesado dukare 250",
+      "phone": "0993400459",
+      "brand": "Durare",
+      "model": "250",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-09-12T15:44",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 2300,
+      "vendor": "David Zaldumbide",
+      "notes": "Revisión buro",
+      "createdAt": "2026-09-12T20:44:27.173Z",
+      "updatedAt": "2026-09-12T20:44:27.173Z"
+    },
+    {
       "id": "e8c939a2-3794-47ca-bdc7-178f66439017",
       "name": "Joel Shiguando",
       "phone": "0991966084",
