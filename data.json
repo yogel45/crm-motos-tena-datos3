@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "44a1090c-1bd1-415d-a234-23879b4ba312",
+      "name": "Mauro interesado moto 250 dukare",
+      "phone": "0961134964",
+      "brand": "Dukare",
+      "model": "250",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-09-12T16:54",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 2500,
+      "vendor": "David Zaldumbide",
+      "notes": "Moto para el sobrino sale fin de mes",
+      "createdAt": "2026-09-12T21:55:21.157Z",
+      "updatedAt": "2026-09-12T21:55:21.157Z"
+    },
+    {
       "id": "88109a27-2ba3-48e6-95a3-f9585d4cb352",
       "name": "Emilson Andi interesado dukare 250",
       "phone": "0993400459",
