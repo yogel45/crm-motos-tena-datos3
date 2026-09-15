@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "e43b4321-bd82-4e66-a83d-d8bd6c4acfa0",
+      "name": "Carlos Quiros cliente interesado Luxuri",
+      "phone": "+593 99 056 7783",
+      "brand": "Ranger",
+      "model": "250",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-09-15T17:37",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 2350,
+      "vendor": "David Zaldumbide",
+      "notes": "Cliente va hablar con el para el le va a dar la movilidad pendiente seguimiento",
+      "createdAt": "2026-09-15T22:38:38.098Z",
+      "updatedAt": "2026-09-15T22:38:38.098Z"
+    },
+    {
       "id": "44a1090c-1bd1-415d-a234-23879b4ba312",
       "name": "Mauro interesado moto 250 dukare",
       "phone": "0961134964",
