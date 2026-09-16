@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "e648e112-1a37-4b1e-8443-4bcaf7a704dc",
+      "name": "Mishell Cliente crm Tena caballito",
+      "phone": "+593 98 002 3704",
+      "brand": "Shineray",
+      "model": "Caballito",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-09-15T19:12",
+      "payment": "Contado",
+      "source": "Otro",
+      "amount": 1300,
+      "vendor": "David Zaldumbide",
+      "notes": "Cliente indica que le interesa la Caballito color negro",
+      "createdAt": "2026-09-16T00:13:32.148Z",
+      "updatedAt": "2026-09-16T00:13:32.148Z"
+    },
+    {
       "id": "e43b4321-bd82-4e66-a83d-d8bd6c4acfa0",
       "name": "Carlos Quiros cliente interesado Luxuri",
       "phone": "+593 99 056 7783",
