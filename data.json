@@ -223,23 +223,6 @@
       "updatedAt": "2026-08-27T16:52:35.497Z"
     },
     {
-      "id": "3a5a31a0-7d7c-474f-af04-d3c712b7a632",
-      "name": "Cliente interesado igm cr work market place",
-      "phone": "+593 98 795 0120",
-      "brand": "Igm",
-      "model": "Cr work",
-      "interest": "Interesado",
-      "status": "Nuevo",
-      "followUp": "2026-08-27T11:48",
-      "payment": "Contado",
-      "source": "Marketplace",
-      "amount": 1.1,
-      "vendor": "David Zaldumbide",
-      "notes": "",
-      "createdAt": "2026-08-27T16:49:21.448Z",
-      "updatedAt": "2026-08-27T16:49:21.448Z"
-    },
-    {
       "id": "a51f8976-cfec-4e41-8cfc-2ba56aa398af",
       "name": "Veloz Clinte interesado Haojue 150 Delivery",
       "phone": "+593 96 088 9175",
