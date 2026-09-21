@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "48a1fb00-3789-4baa-b306-e80407876ff7",
+      "name": "Nixon interesado motocicleta paltina 100",
+      "phone": "0990455889",
+      "brand": "Bajab",
+      "model": "100",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-09-21T11:04",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 1790,
+      "vendor": "David Zaldumbide",
+      "notes": "",
+      "createdAt": "2026-09-21T16:04:30.757Z",
+      "updatedAt": "2026-09-21T16:04:30.757Z"
+    },
+    {
       "id": "718d36ba-5726-49f1-828e-da5cd45917c1",
       "name": "Luis interesado moto eagle daytona",
       "phone": "0994705206",
