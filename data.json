@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "365f53ce-39e8-4611-918d-efc4b7c5f10a",
+      "name": "Ramiro Aguinda interesado igm",
+      "phone": "0960040375",
+      "brand": "Shineray",
+      "model": "Iromax",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-09-23T17:16",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 1500,
+      "vendor": "David Zaldumbide",
+      "notes": "Revisión buro",
+      "createdAt": "2026-09-23T22:17:08.935Z",
+      "updatedAt": "2026-09-23T22:17:08.935Z"
+    },
+    {
       "id": "48a1fb00-3789-4baa-b306-e80407876ff7",
       "name": "Nixon interesado motocicleta paltina 100",
       "phone": "0990455889",
