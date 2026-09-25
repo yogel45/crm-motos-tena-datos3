@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "ceee5664-2cbe-48b4-834d-469f81b410af",
+      "name": "Joel daytona Wolf",
+      "phone": "0994613072",
+      "brand": "Daytona",
+      "model": "250",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-09-25T16:03",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": null,
+      "vendor": "David Zaldumbide",
+      "notes": "",
+      "createdAt": "2026-09-25T21:03:05.666Z",
+      "updatedAt": "2026-09-25T21:03:05.666Z"
+    },
+    {
       "id": "365f53ce-39e8-4611-918d-efc4b7c5f10a",
       "name": "Ramiro Aguinda interesado igm",
       "phone": "0960040375",
