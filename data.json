@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "87792c89-1752-4bc6-b834-940fd2d02d21",
+      "name": "Kevin Alvarado",
+      "phone": "0979800815",
+      "brand": "Tuko",
+      "model": "250",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-09-25T16:30",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 2500,
+      "vendor": "David Zaldumbide",
+      "notes": "Revisión buro",
+      "createdAt": "2026-09-25T21:30:37.062Z",
+      "updatedAt": "2026-09-25T21:30:37.062Z"
+    },
+    {
       "id": "ceee5664-2cbe-48b4-834d-469f81b410af",
       "name": "Joel daytona Wolf",
       "phone": "0994613072",
