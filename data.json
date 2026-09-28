@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "31adaf03-5cdb-4b5a-a92e-92312d5ac31b",
+      "name": "Javier interesado motocicleta Discovery",
+      "phone": "0985281159",
+      "brand": "Bajaj",
+      "model": "Ct125",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-09-28T16:37",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 2220,
+      "vendor": "David Zaldumbide",
+      "notes": "Revisión del buro trabaja en la big cola",
+      "createdAt": "2026-09-28T21:38:41.965Z",
+      "updatedAt": "2026-09-28T21:38:41.965Z"
+    },
+    {
       "id": "87792c89-1752-4bc6-b834-940fd2d02d21",
       "name": "Kevin Alvarado",
       "phone": "0979800815",
