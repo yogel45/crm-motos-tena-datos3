@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "0e571127-a673-4ae8-b340-c4e2eef32cb6",
+      "name": "Rodrigo Dukare 300 monaco",
+      "phone": "0958838184",
+      "brand": "Dukare",
+      "model": "Monaco",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-09-29T10:06",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": null,
+      "vendor": "David Zaldumbide",
+      "notes": "Tomar decisiones",
+      "createdAt": "2026-09-29T15:06:34.361Z",
+      "updatedAt": "2026-09-29T15:06:34.361Z"
+    },
+    {
       "id": "31adaf03-5cdb-4b5a-a92e-92312d5ac31b",
       "name": "Javier interesado motocicleta Discovery",
       "phone": "0985281159",
