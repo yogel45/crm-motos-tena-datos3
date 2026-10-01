@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "ac332a6b-20e5-47ec-b59c-2f415c455ff1",
+      "name": "Joseph cliente interesado loncin Rally 250",
+      "phone": "0984129622",
+      "brand": "Loncin",
+      "model": "250",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-01T13:41",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 2700,
+      "vendor": "David Zaldumbide",
+      "notes": "Cliente le interesa moto para viaje",
+      "createdAt": "2026-10-01T18:42:00.708Z",
+      "updatedAt": "2026-10-01T18:42:00.708Z"
+    },
+    {
       "id": "a20dd75c-770f-4fc4-a860-954d5e3219bd",
       "name": "Dorian interesado moto ranger",
       "phone": "0960834214",
