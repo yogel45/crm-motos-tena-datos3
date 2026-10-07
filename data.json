@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "3580e78a-93ed-4575-8fba-fa0ad26fb157",
+      "name": "Jorge cliente interesado Daytona 290",
+      "phone": "0989228938",
+      "brand": "Daytona",
+      "model": "R290",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-07T09:39",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 2800,
+      "vendor": "David Zaldumbide",
+      "notes": "Interesado dar seguimiento quiere ver la moto",
+      "createdAt": "2026-10-07T14:39:36.839Z",
+      "updatedAt": "2026-10-07T14:39:36.839Z"
+    },
+    {
       "id": "c228964f-61a2-40ae-aa2a-23ada7926934",
       "name": "Crsitian Tapuy loncin gp300",
       "phone": "0995361026",
