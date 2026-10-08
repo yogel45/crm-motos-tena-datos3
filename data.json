@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "eecdd882-4632-422a-ae41-8bc9ee53772a",
+      "name": "Yadyra interesada motocicleta cc200",
+      "phone": "0997659969",
+      "brand": "Tuko",
+      "model": "Cr3",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-08T17:06",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 1800,
+      "vendor": "David Zaldumbide",
+      "notes": "Compra para el otro mes",
+      "createdAt": "2026-10-08T22:07:01.119Z",
+      "updatedAt": "2026-10-08T22:07:01.119Z"
+    },
+    {
       "id": "4761fd41-0f6b-49a3-9095-557e8945b849",
       "name": "Joiber Dalgo",
       "phone": "0988082295",
