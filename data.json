@@ -274,23 +274,6 @@
       "updatedAt": "2026-09-20T17:17:40.554Z"
     },
     {
-      "id": "68ee49c0-2820-4a64-a762-29f3d8f27127",
-      "name": "Cliente guardia Banco del Austro",
-      "phone": "0959937638",
-      "brand": "Ranger",
-      "model": "Gy8",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-09-19T09:18",
-      "payment": "Contado",
-      "source": "Marketplace",
-      "amount": 1550,
-      "vendor": "David Zaldumbide",
-      "notes": "Dispone de 1400 Guardia del banco del Austro",
-      "createdAt": "2026-09-19T14:19:33.508Z",
-      "updatedAt": "2026-09-19T14:19:33.508Z"
-    },
-    {
       "id": "e648e112-1a37-4b1e-8443-4bcaf7a704dc",
       "name": "Mishell Cliente crm Tena caballito",
       "phone": "+593 98 002 3704",
