@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "33cb7de2-9571-4579-a1dc-7676f57f1301",
+      "name": "Joel Alvarado",
+      "phone": "0998392762",
+      "brand": "Shineray",
+      "model": "300",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-10T12:08",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 2600,
+      "vendor": "David Zaldumbide",
+      "notes": "Fin de mes planificado compra",
+      "createdAt": "2026-10-10T17:08:36.593Z",
+      "updatedAt": "2026-10-10T17:08:36.593Z"
+    },
+    {
       "id": "72f72caa-7be6-4c63-a357-3c1d97b207a3",
       "name": "Jesus Cerda",
       "phone": "0969269779",
