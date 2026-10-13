@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "1270d189-11c8-42d0-b35e-249f7c342f26",
+      "name": "Jhey Rosales",
+      "phone": "0993515653",
+      "brand": "Daytona",
+      "model": "180",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-13T12:30",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 2000,
+      "vendor": "David Zaldumbide",
+      "notes": "Revisión buro",
+      "createdAt": "2026-10-13T17:33:15.404Z",
+      "updatedAt": "2026-10-13T17:33:15.404Z"
+    },
+    {
       "id": "641d2504-23b5-49ff-8802-9aef61aeb064",
       "name": "Chany Romero",
       "phone": "0939307755",
