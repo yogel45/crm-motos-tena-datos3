@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "22c9c37e-e7be-4a36-bfd9-75a3e24e6e10",
+      "name": "Alejandra Grefa",
+      "phone": "0994342699",
+      "brand": "Dukara",
+      "model": "Bomber 250",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-13T14:55",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 2600,
+      "vendor": "David Zaldumbide",
+      "notes": "Revisión buro",
+      "createdAt": "2026-10-13T19:56:20.078Z",
+      "updatedAt": "2026-10-13T19:56:20.078Z"
+    },
+    {
       "id": "1270d189-11c8-42d0-b35e-249f7c342f26",
       "name": "Jhey Rosales",
       "phone": "0993515653",
