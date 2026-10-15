@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "76ef748c-8d0c-49c3-ba16-5a7ff12745fb",
+      "name": "Jesus Zambrano",
+      "phone": "0997736007",
+      "brand": "Honda",
+      "model": "X150",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-15T09:59",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 3800,
+      "vendor": "David Zaldumbide",
+      "notes": "Revisión buro",
+      "createdAt": "2026-10-15T14:59:48.939Z",
+      "updatedAt": "2026-10-15T14:59:48.939Z"
+    },
+    {
       "id": "22c9c37e-e7be-4a36-bfd9-75a3e24e6e10",
       "name": "Alejandra Grefa",
       "phone": "0994342699",
