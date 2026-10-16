@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "466be351-c9d9-4b52-8616-717e36f710e9",
+      "name": "Lisandro Tangoy",
+      "phone": "0987449184",
+      "brand": "Loncin",
+      "model": "250",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-16T15:19",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 2600,
+      "vendor": "David Zaldumbide",
+      "notes": "Revisión buro",
+      "createdAt": "2026-10-16T20:19:17.185Z",
+      "updatedAt": "2026-10-16T20:19:17.185Z"
+    },
+    {
       "id": "76ef748c-8d0c-49c3-ba16-5a7ff12745fb",
       "name": "Jesus Zambrano",
       "phone": "0997736007",
