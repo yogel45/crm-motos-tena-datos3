@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "e96000a5-2f0b-4dd4-bec2-db7c7e0463a9",
+      "name": "Jhonny Tanguila",
+      "phone": "0962039085",
+      "brand": "Monaco",
+      "model": "300",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-17T16:35",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 2800,
+      "vendor": "David Zaldumbide",
+      "notes": "Negocio Tena",
+      "createdAt": "2026-10-17T21:36:12.433Z",
+      "updatedAt": "2026-10-17T21:36:12.433Z"
+    },
+    {
       "id": "466be351-c9d9-4b52-8616-717e36f710e9",
       "name": "Lisandro Tangoy",
       "phone": "0987449184",
