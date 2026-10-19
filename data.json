@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "712f12fa-b07a-425d-ac8d-2de284028159",
+      "name": "Jaime interesado daytona",
+      "phone": "0982148186",
+      "brand": "Daytonq",
+      "model": "290",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-19T13:56",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 2600,
+      "vendor": "David Zaldumbide",
+      "notes": "Préstamo en gestion",
+      "createdAt": "2026-10-19T18:56:54.363Z",
+      "updatedAt": "2026-10-19T18:56:54.363Z"
+    },
+    {
       "id": "e96000a5-2f0b-4dd4-bec2-db7c7e0463a9",
       "name": "Jhonny Tanguila",
       "phone": "0962039085",
