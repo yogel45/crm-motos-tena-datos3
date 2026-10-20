@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "e7ed2cce-9a3c-4df9-a5c8-ad22aa1ce257",
+      "name": "Yadira interesada",
+      "phone": "0967982654",
+      "brand": "Ranger",
+      "model": "250",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-19T19:08",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 1950,
+      "vendor": "David Zaldumbide",
+      "notes": "Dura bomber",
+      "createdAt": "2026-10-20T00:10:01.647Z",
+      "updatedAt": "2026-10-20T00:10:01.647Z"
+    },
+    {
       "id": "712f12fa-b07a-425d-ac8d-2de284028159",
       "name": "Jaime interesado daytona",
       "phone": "0982148186",
