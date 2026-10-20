@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "51b0f9b3-6828-4085-ad30-1cd454cc3944",
+      "name": "Natalia interesada tiger",
+      "phone": "+593 99 869 7107",
+      "brand": "Dukare",
+      "model": "150",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-20T11:52",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 1400,
+      "vendor": "David Zaldumbide",
+      "notes": "Compra para fin de mes",
+      "createdAt": "2026-10-20T16:54:01.114Z",
+      "updatedAt": "2026-10-20T16:54:01.114Z"
+    },
+    {
       "id": "e7ed2cce-9a3c-4df9-a5c8-ad22aa1ce257",
       "name": "Yadira interesada",
       "phone": "0967982654",
