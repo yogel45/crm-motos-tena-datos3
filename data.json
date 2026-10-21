@@ -308,23 +308,6 @@
       "updatedAt": "2026-10-06T21:50:51.902Z"
     },
     {
-      "id": "e68c33ca-7f20-419f-878a-8a106fa4f750",
-      "name": "Fidel Grefa",
-      "phone": "0969828433",
-      "brand": "Tuko",
-      "model": "Rover",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-10-02T16:25",
-      "payment": "Contado",
-      "source": "Presencial",
-      "amount": null,
-      "vendor": "David Zaldumbide",
-      "notes": "Compra la otra semana",
-      "createdAt": "2026-10-02T21:26:08.426Z",
-      "updatedAt": "2026-10-02T21:26:08.426Z"
-    },
-    {
       "id": "ac332a6b-20e5-47ec-b59c-2f415c455ff1",
       "name": "Joseph cliente interesado loncin Rally 250",
       "phone": "0984129622",
