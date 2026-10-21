@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "2cf2f7a1-fdc3-4e4b-8385-2f0e5a9c2146",
+      "name": "Anderson Garcia Loncin CR2",
+      "phone": "0984050624",
+      "brand": "Lincin",
+      "model": "Cr2",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-20T19:01",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 2.5,
+      "vendor": "David Zaldumbide",
+      "notes": "Va ahorrar para comprar de contado",
+      "createdAt": "2026-10-21T00:02:42.098Z",
+      "updatedAt": "2026-10-21T00:02:42.098Z"
+    },
+    {
       "id": "51b0f9b3-6828-4085-ad30-1cd454cc3944",
       "name": "Natalia interesada tiger",
       "phone": "+593 99 869 7107",
