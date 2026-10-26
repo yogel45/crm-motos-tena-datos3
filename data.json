@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "1a6a1daa-aa91-410b-9c98-309fbb53b9c8",
+      "name": "Mathius Jaque interesado moto tiger",
+      "phone": "0989880690",
+      "brand": "Dukare",
+      "model": "150",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-26T12:39",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 1700,
+      "vendor": "David Zaldumbide",
+      "notes": "Tiene 800 reunido",
+      "createdAt": "2026-10-26T17:39:49.466Z",
+      "updatedAt": "2026-10-26T17:39:49.466Z"
+    },
+    {
       "id": "2cf2f7a1-fdc3-4e4b-8385-2f0e5a9c2146",
       "name": "Anderson Garcia Loncin CR2",
       "phone": "0984050624",
