@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "28542da4-90a6-4722-8985-386d0daab31a",
+      "name": "Katia moto cr2 loncin",
+      "phone": "0939833063",
+      "brand": "Loncin",
+      "model": "Cr2",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-28T10:15",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 2500,
+      "vendor": "David Zaldumbide",
+      "notes": "",
+      "createdAt": "2026-10-28T15:15:43.459Z",
+      "updatedAt": "2026-10-28T15:15:43.459Z"
+    },
+    {
       "id": "1a6a1daa-aa91-410b-9c98-309fbb53b9c8",
       "name": "Mathius Jaque interesado moto tiger",
       "phone": "0989880690",
