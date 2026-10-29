@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "15dc3648-0587-4e73-9111-ae185072b2c9",
+      "name": "Jordan interesado moto tuko 300",
+      "phone": "0985995602",
+      "brand": "Tuko",
+      "model": "Sikr 300",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-29T10:56",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 3700,
+      "vendor": "David Zaldumbide",
+      "notes": "La otra semana compra",
+      "createdAt": "2026-10-29T15:56:42.825Z",
+      "updatedAt": "2026-10-29T15:56:42.825Z"
+    },
+    {
       "id": "28542da4-90a6-4722-8985-386d0daab31a",
       "name": "Katia moto cr2 loncin",
       "phone": "0939833063",
