@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "a2d14504-d918-4c78-982c-347920701b27",
+      "name": "Junior Quiros interesado daytona scorpion",
+      "phone": "0986329888",
+      "brand": "Daytona",
+      "model": "Scorpion",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-30T18:56",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 2000,
+      "vendor": "David Zaldumbide",
+      "notes": "Tomar desi ción entrada de 1300",
+      "createdAt": "2026-10-30T23:57:10.917Z",
+      "updatedAt": "2026-10-30T23:57:10.917Z"
+    },
+    {
       "id": "15dc3648-0587-4e73-9111-ae185072b2c9",
       "name": "Jordan interesado moto tuko 300",
       "phone": "0985995602",
