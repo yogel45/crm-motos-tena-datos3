@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "21a48cee-39d6-4095-b799-c533a661ecc9",
+      "name": "Roberto interesado tiger",
+      "phone": "0995646374",
+      "brand": "Dukare",
+      "model": "150",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-10-31T13:46",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 1400,
+      "vendor": "David Zaldumbide",
+      "notes": "23 de este mes",
+      "createdAt": "2026-10-31T18:46:57.747Z",
+      "updatedAt": "2026-10-31T18:46:57.747Z"
+    },
+    {
       "id": "b3a58fe5-f25f-49f9-b24c-974ab84a28f0",
       "name": "Junior Quiros interesado daytona scorpion",
       "phone": "0986329888",
