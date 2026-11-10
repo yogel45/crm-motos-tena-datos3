@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "fd3dc70d-56e4-4471-9f58-b8ec8e9f3304",
+      "name": "Javier Pozo",
+      "phone": "0998147711",
+      "brand": "Igm",
+      "model": "180",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-11-10T12:10",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 2200,
+      "vendor": "David Zaldumbide",
+      "notes": "Tomar decisiones",
+      "createdAt": "2026-11-10T17:12:22.823Z",
+      "updatedAt": "2026-11-10T17:12:22.823Z"
+    },
+    {
       "id": "4571f32f-0a80-46ce-beaa-e763bdcede16",
       "name": "Mari Guevara Honda dio",
       "phone": "0981770019",
