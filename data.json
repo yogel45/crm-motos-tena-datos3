@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "394d84e5-cca8-48c3-b742-a42fcd19fa83",
+      "name": "Jose",
+      "phone": "0996729577",
+      "brand": "Daytona",
+      "model": "Zr290",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-11-17T10:28",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 2770,
+      "vendor": "David Zaldumbide",
+      "notes": "Tiene 1000$",
+      "createdAt": "2026-11-17T15:33:18.627Z",
+      "updatedAt": "2026-11-17T15:33:18.627Z"
+    },
+    {
       "id": "fd3dc70d-56e4-4471-9f58-b8ec8e9f3304",
       "name": "Javier Pozo",
       "phone": "0998147711",
