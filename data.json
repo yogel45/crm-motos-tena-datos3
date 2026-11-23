@@ -306,23 +306,6 @@
       "notes": "Revisión buro",
       "createdAt": "2026-09-23T22:17:08.935Z",
       "updatedAt": "2026-09-23T22:17:08.935Z"
-    },
-    {
-      "id": "48a1fb00-3789-4baa-b306-e80407876ff7",
-      "name": "Nixon interesado motocicleta paltina 100",
-      "phone": "0990455889",
-      "brand": "Bajab",
-      "model": "100",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-09-21T11:04",
-      "payment": "Contado",
-      "source": "WhatsApp",
-      "amount": 1790,
-      "vendor": "David Zaldumbide",
-      "notes": "",
-      "createdAt": "2026-09-21T16:04:30.757Z",
-      "updatedAt": "2026-09-21T16:04:30.757Z"
     }
   ]
 }
