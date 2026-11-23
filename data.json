@@ -155,23 +155,6 @@
       "updatedAt": "2026-10-13T19:56:20.078Z"
     },
     {
-      "id": "641d2504-23b5-49ff-8802-9aef61aeb064",
-      "name": "Chany Romero",
-      "phone": "0939307755",
-      "brand": "IGM",
-      "model": "170",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-10-12T14:34",
-      "payment": "Contado",
-      "source": "Presencial",
-      "amount": 1500,
-      "vendor": "David Zaldumbide",
-      "notes": "Tomar decisiones pago con tarjeta",
-      "createdAt": "2026-10-12T19:35:03.644Z",
-      "updatedAt": "2026-10-12T19:35:03.644Z"
-    },
-    {
       "id": "24097332-ca66-428e-8847-a22915f25786",
       "name": "Alex interesado",
       "phone": "0968677400",
