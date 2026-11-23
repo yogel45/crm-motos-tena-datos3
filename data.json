@@ -87,23 +87,6 @@
       "updatedAt": "2026-11-03T18:16:06.485Z"
     },
     {
-      "id": "b3a58fe5-f25f-49f9-b24c-974ab84a28f0",
-      "name": "Junior Quiros interesado daytona scorpion",
-      "phone": "0986329888",
-      "brand": "Daytona",
-      "model": "Scorpion",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-10-30T18:56",
-      "payment": "Contado",
-      "source": "WhatsApp",
-      "amount": 2000,
-      "vendor": "David Zaldumbide",
-      "notes": "Tomar desi ción entrada de 1300",
-      "createdAt": "2026-10-30T23:57:12.184Z",
-      "updatedAt": "2026-10-30T23:57:12.184Z"
-    },
-    {
       "id": "15dc3648-0587-4e73-9111-ae185072b2c9",
       "name": "Jordan interesado moto tuko 300",
       "phone": "0985995602",
