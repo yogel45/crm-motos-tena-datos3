@@ -408,23 +408,6 @@
       "notes": "1501221053 cedula",
       "createdAt": "2026-09-11T23:49:57.712Z",
       "updatedAt": "2026-09-11T23:50:24.576Z"
-    },
-    {
-      "id": "6aa441b9-97e8-4880-9f82-17b5308d1bce",
-      "name": "Cristian interesado moto neiket 200",
-      "phone": "0983775015",
-      "brand": "Shineray",
-      "model": "Gp200",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-09-10T16:33",
-      "payment": "Contado",
-      "source": "Presencial",
-      "amount": 1800,
-      "vendor": "David Zaldumbide",
-      "notes": "Compra en 2 semanas",
-      "createdAt": "2026-09-10T21:33:46.892Z",
-      "updatedAt": "2026-09-10T21:33:46.892Z"
     }
   ]
 }
