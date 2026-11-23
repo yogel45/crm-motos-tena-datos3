@@ -240,23 +240,6 @@
       "updatedAt": "2026-10-06T21:50:51.902Z"
     },
     {
-      "id": "ac332a6b-20e5-47ec-b59c-2f415c455ff1",
-      "name": "Joseph cliente interesado loncin Rally 250",
-      "phone": "0984129622",
-      "brand": "Loncin",
-      "model": "250",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-10-01T13:41",
-      "payment": "Contado",
-      "source": "WhatsApp",
-      "amount": 2700,
-      "vendor": "David Zaldumbide",
-      "notes": "Cliente le interesa moto para viaje",
-      "createdAt": "2026-10-01T18:42:00.708Z",
-      "updatedAt": "2026-10-01T18:42:00.708Z"
-    },
-    {
       "id": "0e571127-a673-4ae8-b340-c4e2eef32cb6",
       "name": "Rodrigo Dukare 300 monaco",
       "phone": "0958838184",
