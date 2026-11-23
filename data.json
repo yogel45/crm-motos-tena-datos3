@@ -459,23 +459,6 @@
       "notes": "",
       "createdAt": "2026-09-09T19:00:50.640Z",
       "updatedAt": "2026-09-09T19:00:50.640Z"
-    },
-    {
-      "id": "f2572f64-a936-48a3-a3fa-ed981d1d875a",
-      "name": "Geovanny Tapuy Rally 300",
-      "phone": "+593 98 903 0812",
-      "brand": "Loncin",
-      "model": "Rally 300",
-      "interest": "Interesado",
-      "status": "Nuevo",
-      "followUp": "2026-09-04T11:34",
-      "payment": "Contado",
-      "source": "Presencial",
-      "amount": 3250,
-      "vendor": "David Zaldumbide",
-      "notes": "Cliente para crédito directo",
-      "createdAt": "2026-09-04T16:36:18.189Z",
-      "updatedAt": "2026-09-04T16:36:18.189Z"
     }
   ]
 }
