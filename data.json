@@ -255,23 +255,6 @@
       "notes": "Tomar decisiones",
       "createdAt": "2026-09-29T15:06:34.361Z",
       "updatedAt": "2026-09-29T15:06:34.361Z"
-    },
-    {
-      "id": "31adaf03-5cdb-4b5a-a92e-92312d5ac31b",
-      "name": "Javier interesado motocicleta Discovery",
-      "phone": "0985281159",
-      "brand": "Bajaj",
-      "model": "Ct125",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-09-28T16:37",
-      "payment": "Contado",
-      "source": "WhatsApp",
-      "amount": 2220,
-      "vendor": "David Zaldumbide",
-      "notes": "Revisión del buro trabaja en la big cola",
-      "createdAt": "2026-09-28T21:38:41.965Z",
-      "updatedAt": "2026-09-28T21:38:41.965Z"
     }
   ]
 }
