@@ -289,23 +289,6 @@
       "notes": "Revisión buro",
       "createdAt": "2026-09-25T21:30:37.062Z",
       "updatedAt": "2026-09-25T21:30:37.062Z"
-    },
-    {
-      "id": "365f53ce-39e8-4611-918d-efc4b7c5f10a",
-      "name": "Ramiro Aguinda interesado igm",
-      "phone": "0960040375",
-      "brand": "Shineray",
-      "model": "Iromax",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-09-23T17:16",
-      "payment": "Contado",
-      "source": "WhatsApp",
-      "amount": 1500,
-      "vendor": "David Zaldumbide",
-      "notes": "Revisión buro",
-      "createdAt": "2026-09-23T22:17:08.935Z",
-      "updatedAt": "2026-09-23T22:17:08.935Z"
     }
   ]
 }
