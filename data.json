@@ -476,23 +476,6 @@
       "notes": "Cliente para crédito directo",
       "createdAt": "2026-09-04T16:36:18.189Z",
       "updatedAt": "2026-09-04T16:36:18.189Z"
-    },
-    {
-      "id": "db6c1838-af11-43dd-bdc5-40275bddc30d",
-      "name": "Jair cliente interesado Moto tuko",
-      "phone": "+593 99 065 4727",
-      "brand": "Tuko",
-      "model": "Sikr 300",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-08-27T11:51",
-      "payment": "Contado",
-      "source": "Presencial",
-      "amount": 2760,
-      "vendor": "David Zaldumbide",
-      "notes": "",
-      "createdAt": "2026-08-27T16:52:35.497Z",
-      "updatedAt": "2026-08-27T16:52:35.497Z"
     }
   ]
 }
