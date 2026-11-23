@@ -87,23 +87,6 @@
       "updatedAt": "2026-11-03T18:16:06.485Z"
     },
     {
-      "id": "15dc3648-0587-4e73-9111-ae185072b2c9",
-      "name": "Jordan interesado moto tuko 300",
-      "phone": "0985995602",
-      "brand": "Tuko",
-      "model": "Sikr 300",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-10-29T10:56",
-      "payment": "Contado",
-      "source": "WhatsApp",
-      "amount": 3700,
-      "vendor": "David Zaldumbide",
-      "notes": "La otra semana compra",
-      "createdAt": "2026-10-29T15:56:42.825Z",
-      "updatedAt": "2026-10-29T15:56:42.825Z"
-    },
-    {
       "id": "1a6a1daa-aa91-410b-9c98-309fbb53b9c8",
       "name": "Mathius Jaque interesado moto tiger",
       "phone": "0989880690",
