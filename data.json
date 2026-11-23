@@ -272,23 +272,6 @@
       "notes": "Revisión del buro trabaja en la big cola",
       "createdAt": "2026-09-28T21:38:41.965Z",
       "updatedAt": "2026-09-28T21:38:41.965Z"
-    },
-    {
-      "id": "87792c89-1752-4bc6-b834-940fd2d02d21",
-      "name": "Kevin Alvarado",
-      "phone": "0979800815",
-      "brand": "Tuko",
-      "model": "250",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-09-25T16:30",
-      "payment": "Contado",
-      "source": "Presencial",
-      "amount": 2500,
-      "vendor": "David Zaldumbide",
-      "notes": "Revisión buro",
-      "createdAt": "2026-09-25T21:30:37.062Z",
-      "updatedAt": "2026-09-25T21:30:37.062Z"
     }
   ]
 }
