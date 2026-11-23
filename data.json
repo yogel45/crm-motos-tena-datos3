@@ -206,23 +206,6 @@
       "updatedAt": "2026-10-08T17:26:09.897Z"
     },
     {
-      "id": "3e6761b1-bf01-4839-80a7-fe17a48f1d11",
-      "name": "Oscar Tanguila",
-      "phone": "0960864406",
-      "brand": "Honda",
-      "model": "Twuister",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-10-07T10:41",
-      "payment": "Contado",
-      "source": "Presencial",
-      "amount": 2300,
-      "vendor": "David Zaldumbide",
-      "notes": "Revisión buro",
-      "createdAt": "2026-10-07T15:41:29.259Z",
-      "updatedAt": "2026-10-07T15:41:29.259Z"
-    },
-    {
       "id": "c228964f-61a2-40ae-aa2a-23ada7926934",
       "name": "Crsitian Tapuy loncin gp300",
       "phone": "0995361026",
