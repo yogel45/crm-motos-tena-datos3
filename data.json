@@ -340,23 +340,6 @@
       "notes": "Quiere en color rosado",
       "createdAt": "2026-09-20T17:17:40.554Z",
       "updatedAt": "2026-09-20T17:17:40.554Z"
-    },
-    {
-      "id": "e648e112-1a37-4b1e-8443-4bcaf7a704dc",
-      "name": "Mishell Cliente crm Tena caballito",
-      "phone": "+593 98 002 3704",
-      "brand": "Shineray",
-      "model": "Caballito",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-09-15T19:12",
-      "payment": "Contado",
-      "source": "Otro",
-      "amount": 1300,
-      "vendor": "David Zaldumbide",
-      "notes": "Cliente indica que le interesa la Caballito color negro",
-      "createdAt": "2026-09-16T00:13:32.148Z",
-      "updatedAt": "2026-09-16T00:13:32.148Z"
     }
   ]
 }
