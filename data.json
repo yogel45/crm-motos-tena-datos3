@@ -374,23 +374,6 @@
       "notes": "Moto para el sobrino sale fin de mes",
       "createdAt": "2026-09-12T21:55:21.157Z",
       "updatedAt": "2026-09-12T21:55:21.157Z"
-    },
-    {
-      "id": "88109a27-2ba3-48e6-95a3-f9585d4cb352",
-      "name": "Emilson Andi interesado dukare 250",
-      "phone": "0993400459",
-      "brand": "Durare",
-      "model": "250",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-09-12T15:44",
-      "payment": "Contado",
-      "source": "Presencial",
-      "amount": 2300,
-      "vendor": "David Zaldumbide",
-      "notes": "Revisión buro",
-      "createdAt": "2026-09-12T20:44:27.173Z",
-      "updatedAt": "2026-09-12T20:44:27.173Z"
     }
   ]
 }
