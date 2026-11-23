@@ -425,23 +425,6 @@
       "notes": "Compra en 2 semanas",
       "createdAt": "2026-09-10T21:33:46.892Z",
       "updatedAt": "2026-09-10T21:33:46.892Z"
-    },
-    {
-      "id": "623d66f7-9bbc-43cc-9e2b-9daef43a7e18",
-      "name": "Luis cliente interesado ct125 dircobery",
-      "phone": "0983674346",
-      "brand": "Bajaj",
-      "model": "Ct125",
-      "interest": "Muy interesado",
-      "status": "Nuevo",
-      "followUp": "2026-09-10T14:15",
-      "payment": "Contado",
-      "source": "WhatsApp",
-      "amount": null,
-      "vendor": "David Zaldumbide",
-      "notes": "Cliente regresa del camello 16 de mes",
-      "createdAt": "2026-09-10T19:16:30.867Z",
-      "updatedAt": "2026-09-10T19:16:30.867Z"
     }
   ]
 }
