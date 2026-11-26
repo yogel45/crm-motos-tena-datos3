@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "4a8180b9-baf0-4a4d-9b11-e3e8923aceff",
+      "name": "Lenin Alvarado",
+      "phone": "0986660074",
+      "brand": "Dukare",
+      "model": "250",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-11-26T13:23",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": 2700,
+      "vendor": "David Zaldumbide",
+      "notes": "Revisión buro",
+      "createdAt": "2026-11-26T18:23:22.688Z",
+      "updatedAt": "2026-11-26T18:23:22.688Z"
+    },
+    {
       "id": "0268a631-e5ab-4b11-b20d-5584601792f7",
       "name": "Cliente interesado CrM",
       "phone": "+593 93 924 4327",
