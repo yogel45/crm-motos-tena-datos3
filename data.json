@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "770564ca-2f1c-4fbc-ab56-f7d0439d21fd",
+      "name": "Felipe Cerda",
+      "phone": "0988623433",
+      "brand": "Z170",
+      "model": "170",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-11-26T17:05",
+      "payment": "Contado",
+      "source": "WhatsApp",
+      "amount": 1300,
+      "vendor": "David Zaldumbide",
+      "notes": "Revisión buro",
+      "createdAt": "2026-11-26T22:05:56.584Z",
+      "updatedAt": "2026-11-26T22:05:56.584Z"
+    },
+    {
       "id": "c07f165c-57ad-4085-9340-570b8c8daa8c",
       "name": "Felipe Cerda",
       "phone": "0988623433",
