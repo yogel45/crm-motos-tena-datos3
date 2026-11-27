@@ -2,6 +2,23 @@
   "team_password_hash": "3993adfd462c38471885ae64554edf976546e53944423c626a52c8b03b128bd2",
   "clients": [
     {
+      "id": "6dfb128f-c216-46cb-a485-d2e729100897",
+      "name": "Carlos Moreta",
+      "phone": "0961140651",
+      "brand": "Shineray",
+      "model": "Nova",
+      "interest": "Muy interesado",
+      "status": "Nuevo",
+      "followUp": "2026-11-27T15:51",
+      "payment": "Contado",
+      "source": "Presencial",
+      "amount": null,
+      "vendor": "David Zaldumbide",
+      "notes": "Revisión buro",
+      "createdAt": "2026-11-27T20:52:03.761Z",
+      "updatedAt": "2026-11-27T20:52:03.761Z"
+    },
+    {
       "id": "770564ca-2f1c-4fbc-ab56-f7d0439d21fd",
       "name": "Felipe Cerda",
       "phone": "0988623433",
